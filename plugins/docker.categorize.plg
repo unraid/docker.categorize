@@ -2,7 +2,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "docker.categorize">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2024.12.06">
+<!ENTITY version   "2024.12.06a">
 <!ENTITY launch    "Docker.Categorize">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "unraid/docker.categorize">
